@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main()
 {
-    printf("Hello\n");
+    printf("hi\n");
+>>>>>>> sun
 
     return 0;
 }
